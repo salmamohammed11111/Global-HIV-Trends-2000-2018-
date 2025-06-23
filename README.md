@@ -31,11 +31,14 @@ This dashboard explores HIV-related mortality and treatment access across countr
 - **A Call to Action:** A look ahead at remaining treatment gaps
 
 ## 📂 Files Included
-| File | Description |
-|------|-------------|
-| `Global_HIV_Story.twbx` | Tableau packaged dashboard |
-| `WHO_HIV_Data.xlsx` | Cleaned dataset for visuals |
-| `HIV_Trends_Presentation.pdf` | Summary insights + visual walkthrough |
+| File                       | Description                                 |
+|----------------------------|---------------------------------------------|
+| `Global_HIV_Story.twbx`    | Tableau packaged dashboard                  |
+| `WHO_HIV_Data.xlsx`        | Cleaned dataset for visuals                 |
+| `HIV_Trends_Presentation.pdf` | Summary insights + visual walkthrough     |
+| `Global_HIV_Trends.pptx`   | Presentation deck for interviews or talks   |
+| `README.md`                | Project overview, key insights, and credits |
+
 
 ## 💭 Project Impact
 > “31 million living with HIV. 2.7 million dead. Behind every data point: a story, a system, and a chance to do better.”
