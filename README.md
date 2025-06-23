@@ -1,5 +1,7 @@
 # 🌍 Global HIV Trends (2000–2018): Deaths, Treatment, and Regional Gaps
 
+![Screenshot 2025-06-23 170849](https://github.com/user-attachments/assets/b41d46fd-a554-4a71-a34f-9144b731f5d3)
+
 ![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-blue?logo=tableau)
 ![WHO Data](https://img.shields.io/badge/Data-World%20Health%20Organization-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
